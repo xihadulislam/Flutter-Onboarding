@@ -1,7 +1,7 @@
 name: flutter_onboarding
 description: A new Flutter package, which helps developers in creating an onboarding screen for their app.
 version: 0.0.1
-author: xihad islam
+author: xihad islam <xihad.bd@gmail.com>
 homepage: https://github.com/xihadulislam/Flutter-Onboarding.git
 
 environment:
@@ -15,6 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

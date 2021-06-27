@@ -18,6 +18,7 @@ class OnBoardingScreen extends StatefulWidget {
         this.getStartedText,
         this.getStartedColor});
 
+
   @override
   _OnBoardingScreenState createState() => _OnBoardingScreenState();
 }

@@ -3,23 +3,6 @@ import 'package:flutter_onboarding/constant.dart';
 import 'package:flutter_onboarding/flutter_onboarding.dart';
 import 'package:flutter_onboarding/on_board_page.dart';
 
-void main() {
-  runApp(MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter OnBoarding',
-      theme: ThemeData(
-        primarySwatch: Colors.orange,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: ExampleScreen(),
-    );
-  }
-}
 
 class ExampleScreen extends StatelessWidget {
   final List<OnBoardPage> list = [

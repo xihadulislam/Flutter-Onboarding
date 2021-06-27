@@ -12,6 +12,7 @@ class OnBoardPage extends StatefulWidget {
   _OnBoardPageState createState() => _OnBoardPageState();
 }
 
+
 class _OnBoardPageState extends State<OnBoardPage>  with SingleTickerProviderStateMixin {
   Animation animation;
   AnimationController animationController;

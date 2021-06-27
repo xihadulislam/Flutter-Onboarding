@@ -20,3 +20,4 @@ var primary = Color(0xFF4A4B4D);
 var secondary = Color(0xFF7C7D7E);
 var placeholder = Color(0xFFB6B7B7);
 var placeholderBg = Color(0xFFF2F2F2);
+
